@@ -1,0 +1,1 @@
+Config file shared across all dependencies
